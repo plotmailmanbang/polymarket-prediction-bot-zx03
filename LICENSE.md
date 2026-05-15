@@ -1,4 +1,4 @@
-# 
+# Polymarket instant Automation Script: slippage-control & automated-trade-execution is the best Polymarket automation-script, featuring slippage-control and
 
 
 
